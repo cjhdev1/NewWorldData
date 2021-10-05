@@ -5,7 +5,7 @@ https://newworldfans.com/api
 
 # To Do
 - ~~Add Twitter~~
-- Add Website News
+- ~~Add Website News~~
 
 # Screenshot
 ![alt text](https://i.imgur.com/rg9SgOy.png)
